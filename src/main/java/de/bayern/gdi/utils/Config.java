@@ -142,7 +142,7 @@ public class Config {
 
     /**
      * Mark global config as unused.
-     * @throws IOException when anythong goes wrong
+     * @throws IOException when anything goes wrong
      */
     private static void uninitialized()
         throws IOException {
